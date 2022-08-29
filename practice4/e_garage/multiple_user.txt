@@ -1,0 +1,2 @@
+complete multiple user authentication with default django admin panel
+and also from html page

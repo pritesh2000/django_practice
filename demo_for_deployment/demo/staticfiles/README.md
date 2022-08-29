@@ -1,0 +1,1 @@
+this project created for learning deployment in django.
